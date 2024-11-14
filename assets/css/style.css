@@ -1,0 +1,18 @@
+footer {
+    background-color: #333;
+    color: #FFF;
+    padding: 20px 0;
+}
+footer h3 {
+    font-family: 'Bebas Neue', sans-serif;
+    text-transform: uppercase;
+}
+footer p {
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 1px;
+}
+footer .social-icons a {
+    color: #FFF;
+    margin-right: 10px;
+}
+
